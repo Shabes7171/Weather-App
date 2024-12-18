@@ -1,7 +1,7 @@
 Weather App 🌦️
 A Weather App built using React.js that provides real-time weather updates for any city worldwide. This app fetches live data from a weather API and showcases current weather details in a clean, responsive interface.
 
-Live Demo: Weather App: https://bit.ly/Weather-forcast
+Live Demo: Weather App: https://whimsical-seahorse-e35679.netlify.app/
 
 Features ✨
 🌍 Search by City: Instantly search for weather updates of any city.
