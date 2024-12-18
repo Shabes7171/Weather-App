@@ -21,7 +21,7 @@ Usage Instructions 🖥️
 3. View the current weather details displayed dynamically.
 
 Live Demo 🚀
-Check out the live version of the app: https://bit.ly/Weather-forcast
+Check out the live version of the app: https://whimsical-seahorse-e35679.netlify.app/
 
 # 
 Weather App 🌦️
